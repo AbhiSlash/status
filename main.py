@@ -4,7 +4,7 @@ from os import urandom
 
 
 
-message = "Welcome to my website"
+message = "Probably sleeping, no updates in the last hour :)"
 
 # Initialize the app with random secret_key
 app = Flask(__name__)
