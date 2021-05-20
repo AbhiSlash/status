@@ -4,7 +4,7 @@ from os import urandom
 
 
 
-message = "Probably sleeping, no updates in the last hour :) (Or refresh 1-2 times, there's probably a message)"
+message = "The boys are home, see you on 23rd?"
 
 # Initialize the app with random secret_key
 app = Flask(__name__)
